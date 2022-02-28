@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">AndroidExamen</string>
+    <string name="app_name">QrCodeScanner</string>
+    <string name="image_help">Guide d\'utilisation</string>
+    <string name="image_icon_princile">Icone principale</string>
+    <string name="image_aide">Aide</string>
+    <string name="image_carte">Voir carte</string>
+
+
+
 </resources>

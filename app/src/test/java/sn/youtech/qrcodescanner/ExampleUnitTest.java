@@ -1,4 +1,4 @@
-package com.example.androidexamen;
+package sn.youtech.qrcodescanner;
 
 import org.junit.Test;
 
